@@ -150,3 +150,7 @@ c	akd	net/minecraft/world/item/ShovelItem
 c	lx	net/minecraft/world/item/SwordItem
 c	da	net/minecraft/world/item/ToolItem
 c	cg	net/minecraft/world/item/ArmorMaterials
+c	vj	net/minecraft/world/block/StepSound
+c	gv	net/minecraft/src/StatList
+	m	()V	b	initBlockStats
+	m	()V	c	initItemStats
