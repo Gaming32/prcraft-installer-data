@@ -98,3 +98,8 @@ c	age	net/minecraft/world/block/InfestedBlock
 c	aee	net/minecraft/world/block/SoulSandBlock
 c	do	net/minecraft/world/block/StoneBlock
 c	agi	net/minecraft/world/block/StoneBricksBlock
+c	yr	net/minecraft/world/item/Item
+c	ra	net/minecraft/world/item/MapItem
+c	aid	net/minecraft/world/item/RecordItem
+c	au	net/minecraft/world/item/PickaxeItem
+c	nx	net/minecraft/world/item/AxeItem
