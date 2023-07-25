@@ -1,3 +1,5 @@
 tiny	2	0	official	named
 c	dm	net/minecraft/src/ThreadDownloadSkinData
 c	ahw	net/minecraft/src/ThreadDownloadSkin
+c	nl	net/minecraft/src/FontRenderer
+	m	(Ljava/lang/String;I)Ljava/util/List;	c	wrapLines
