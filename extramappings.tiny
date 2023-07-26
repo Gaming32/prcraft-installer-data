@@ -297,3 +297,5 @@ c	vj	net/minecraft/world/block/StepSound
 c	gv	net/minecraft/src/StatList
 	m	()V	b	initBlockStats
 	m	()V	c	initItemStats
+c	nn	net/minecraft/world/entity/Entity
+c	av	net/minecraft/world/entity/Projectile
